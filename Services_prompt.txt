@@ -1,0 +1,64 @@
+Prompt 6 → Services Page Overview
+Act as a premium fitness brand copywriter and create a compelling “Services Overview” section for a modern gym website called “LifeLift Fitness.”
+
+Business Focus:
+LifeLift Fitness offers expert personal training, group fitness classes, strength transformation programs, nutrition coaching, and lifestyle fitness support.
+
+Requirements:
+- Write a modern services introduction paragraph
+- Make the content motivational and premium
+- Highlight transformation, discipline, health, confidence, and results
+- Keep the paragraph around 100–140 words
+- Use clean startup-style website copywriting
+- Make visitors feel excited to explore the services
+
+Tone:
+Energetic, empowering, premium, modern fitness brand.
+
+Avoid:
+Generic gym phrases and robotic language.
+Prompt 7 → Individual Service Descriptions (PT + Classes)
+Create premium website copy for individual gym services offered by “LifeLift Fitness.”
+
+Generate content for these services:
+1. Personal Training
+2. Strength & Conditioning Classes
+3. HIIT / Fat Burn Sessions
+4. Yoga & Recovery Classes
+
+For each service include:
+- Service Title
+- Short tagline
+- 50–80 word description
+- Main benefit/result users achieve
+
+Writing Style:
+- Motivational and premium
+- Modern startup fitness brand tone
+- Results-focused
+- Website-ready copy
+- Clear and concise
+
+The content should feel like a professional high-converting fitness landing page.
+Prompt 8 → Nutrition & Transformation Program Copy
+Write a premium website section for “Nutrition & Transformation Programs” offered by LifeLift Fitness.
+
+Program Features:
+- Customized meal guidance
+- Body transformation tracking
+- Fat loss and muscle gain support
+- Habit and lifestyle coaching
+- Weekly progress monitoring
+
+Requirements:
+- Create a strong section headline
+- Add a motivational subheadline
+- Write a compelling description (100–150 words)
+- Emphasize transformation, confidence, discipline, and sustainable fitness
+- Make the copy emotionally engaging and results-driven
+
+Tone:
+Modern, premium, motivational, fitness startup style.
+
+Avoid:
+Basic diet-related clichés and overly technical wording.

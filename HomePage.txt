@@ -1,0 +1,64 @@
+Prompt 3 → Homepage Headline & Subheadline
+Act as a premium fitness brand copywriter and create a powerful homepage hero section for a gym website called “LifeLift Fitness”.
+
+Business Context:
+LifeLift Fitness is a modern gym focused on strength training, fat loss, confidence building, and healthy lifestyle transformation. The gym targets young professionals, students, beginners, and fitness enthusiasts who want real results in a motivating environment.
+
+Requirements:
+- Create 10 creative homepage headlines
+- Each headline should feel modern, energetic, motivational, and premium
+- Add matching subheadlines under each headline
+- Use emotionally powerful fitness language
+- Keep headlines short and impactful
+- Make the tone similar to luxury fitness brands and startup-style websites
+- Avoid generic lines like “Welcome to our gym”
+
+Style Inspiration:
+Clean, bold, confident, transformation-focused, futuristic fitness brand.
+
+Output Format:
+Headline:
+Subheadline:
+Prompt 4 → Homepage Intro Paragraph
+Write a compelling homepage introduction paragraph for a gym website called “LifeLift Fitness”.
+
+About the Brand:
+LifeLift Fitness helps people transform their bodies, mindset, and lifestyle through expert coaching, modern equipment, personalized fitness plans, and a motivating community.
+
+The paragraph should:
+- Sound premium and inspiring
+- Be emotionally engaging
+- Make visitors feel motivated to join
+- Highlight transformation, discipline, energy, and confidence
+- Be around 80–120 words
+- Use modern website copywriting style
+- Feel like a high-end fitness startup brand
+
+Tone:
+Bold, energetic, empowering, modern, motivational.
+
+Avoid:
+Overused gym clichés and robotic wording.
+Prompt 5 → Value Proposition Section (3 Cards)
+Create a “Why Choose LifeLift Fitness” value proposition section for a modern gym website.
+
+Requirements:
+Generate 3 premium feature cards.
+
+Each card must include:
+1. A short powerful title
+2. A 1-line subtitle
+3. A short description (30–50 words)
+
+Focus Areas:
+- Expert Personal Training
+- Modern Equipment & Facilities
+- Community Motivation & Results
+
+Writing Style:
+- Modern startup-style copywriting
+- Premium fitness brand tone
+- Motivational and energetic
+- Short, clean, and website-ready
+
+Make the content feel like a high-converting professional gym landing page.

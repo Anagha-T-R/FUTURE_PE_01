@@ -1,0 +1,68 @@
+Prompt 11 → Pricing Section (3 Plans)
+Create a premium pricing section for a modern gym website called “LifeLift Fitness.”
+
+Requirements:
+Generate 3 membership plans:
+1. Basic Plan
+2. Pro Plan
+3. Elite Transformation Plan
+
+For each plan include:
+- Plan Name
+- Monthly Price
+- Short tagline
+- 4–6 included features
+- CTA button text
+
+The plans should feel realistic for a modern premium gym.
+
+Writing Style:
+- High-converting website copy
+- Modern startup-style fitness branding
+- Clean, concise, and professional
+- Motivational and premium tone
+
+Extra Instructions:
+- Highlight the “Pro Plan” as the most popular option
+- Make the “Elite Transformation Plan” sound exclusive and results-focused
+- Include benefits like personal training, nutrition guidance, group classes, recovery support, and transformation tracking
+Prompt 12 → CTA Section 1 (Free Trial)
+Write a high-converting Call-To-Action section for a gym website called “LifeLift Fitness.”
+
+Goal:
+Encourage visitors to start a free trial membership.
+
+Requirements:
+- Create a bold CTA headline
+- Add an energetic subheadline
+- Write a short motivational paragraph
+- Include 2 CTA button texts
+- Focus on transformation, confidence, energy, and getting started today
+
+Tone:
+Modern, powerful, motivating, premium fitness brand.
+
+Style:
+Clean website copy similar to luxury fitness startups.
+
+Avoid:
+Generic lines like “Join Now” without emotion.
+Prompt 13 → CTA Section 2 (Book a Tour)
+Create a premium “Book a Gym Tour” CTA section for a modern fitness brand called “LifeLift Fitness.”
+
+Requirements:
+- Write a compelling headline
+- Add a motivational subheadline
+- Write a short persuasive paragraph encouraging users to visit the gym
+- Include 2 CTA button texts
+- Make visitors feel excited to experience the gym atmosphere, trainers, and facilities
+
+Focus Areas:
+- Premium gym environment
+- Modern equipment
+- Friendly expert trainers
+- Community motivation
+- Real transformation experience
+
+Tone:
+Professional, energetic, welcoming, modern startup fitness brand.

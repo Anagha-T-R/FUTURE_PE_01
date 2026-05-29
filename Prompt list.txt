@@ -1,0 +1,43 @@
+give me list of how many prompts should i generate
+
+May 26
+Here's a complete breakdown of exactly how many prompts you need:
+
+📋 Complete Prompt List — Minimum vs Ideal
+Level	No. of Prompts	Result
+✅ Minimum (pass)	6 prompts	Gets certificate
+⭐ Recommended	10 prompts	Strong submission
+🏆 Best (LoR worthy)	15+ prompts	Letter of Recommendation
+🏆 Full 15 Prompt Breakdown
+Section 1 — Setup (2 prompts)
+Prompt 1 → Business Context Setup
+Prompt 2 → Brand Voice & Tone Definition
+Section 2 — Homepage (3 prompts)
+Prompt 3 → Homepage Headline & Subheadline
+Prompt 4 → Homepage Intro Paragraph
+Prompt 5 → Value Proposition Section (3 cards)
+Section 3 — Services (3 prompts)
+Prompt 6 → Services Page Overview
+Prompt 7 → Individual Service Descriptions (PT + Classes)
+Prompt 8 → Nutrition & Transformation Program Copy
+Section 4 — Social Proof (2 prompts)
+Prompt 9  → Testimonials / Reviews Section (3 fake samples)
+Prompt 10 → About Us / Our Story Section
+Section 5 — Pricing & CTA (3 prompts)
+Prompt 11 → Pricing Section (3 plans)
+Prompt 12 → CTA Section 1 (Free Trial)
+Prompt 13 → CTA Section 2 (Book a Tour)
+Section 6 — Final Polish (2 prompts)
+Prompt 14 → FAQ Section (5 questions)
+Prompt 15 → Tone Refinement & Final Polish
+📊 What Each Level Gets You:
+✅ 6 Prompts (Certificate Only)
+Prompts 3, 5, 6, 7, 12, 13
+Basic homepage + services + CTA
+⭐ 10 Prompts (Strong Submission)
+Prompts 1–10
+Full homepage + services + social proof
+🏆 15 Prompts (LoR Worthy)
+All 15 prompts
+Complete professional website copy
+Shows deep prompt engineering skills

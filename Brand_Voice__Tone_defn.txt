@@ -1,0 +1,72 @@
+Here's your Prompt 2 — Brand Voice & Tone Definition for LifeLift Fitness:
+
+Prompt 2 — Brand Voice & Tone Definition
+📋 The Prompt:
+Now that you have the full context of LifeLift Fitness,
+I need you to define and lock in the brand voice and 
+tone that will be used across the entire website.
+
+Create a detailed Brand Voice & Tone Guide for 
+LifeLift Fitness that includes:
+
+1. BRAND PERSONALITY
+Define LifeLift Fitness as if it were a person:
+- What kind of person would LifeLift Fitness be?
+- How do they talk to customers?
+- What 5 adjectives best describe the brand?
+- What 3 brands does LifeLift Fitness sound like?
+  (can be from any industry — not just fitness)
+
+2. TONE OF VOICE
+Define how we write for each section:
+- Homepage: What tone? Why?
+- Services Page: What tone? Why?
+- Pricing Section: What tone? Why?
+- CTA Buttons & Sections: What tone? Why?
+- About Us: What tone? Why?
+- FAQ Section: What tone? Why?
+
+3. WRITING STYLE RULES
+Create 10 specific writing rules for LifeLift Fitness.
+For each rule give:
+- The Rule (bold)
+- A BAD example (what NOT to write)
+- A GOOD example (what TO write)
+
+Rules must cover:
+- Sentence length
+- Use of fitness jargon
+- How to talk about pricing
+- How to address beginners
+- How to write CTAs
+- Emotional vs logical appeal
+- Use of local Bengaluru references
+- How to handle transformation claims
+- Punctuation and formatting style
+- Use of numbers and stats
+
+4. WORDS WE USE vs WORDS WE AVOID
+Create two lists:
+
+Words & Phrases We LOVE:
+(list 10 words/phrases that fit LifeLift Fitness)
+
+Words & Phrases We NEVER USE:
+(list 10 words/phrases that feel wrong for our brand)
+
+5. SAMPLE BRAND VOICE STATEMENT
+Write a 3-sentence brand voice statement that 
+summarizes how LifeLift Fitness communicates.
+This will be used as a reference for all copy.
+
+6. EMOTIONAL TRIGGERS
+List 5 emotional triggers we use in our copy 
+to connect with our Bengaluru audience aged 18-35.
+For each trigger explain:
+- The trigger
+- Why it works for our audience
+- A sample sentence using that trigger
+
+Please format this as a clean, professional 
+Brand Voice & Tone Guide that I can save and 
+reference throughout this project.

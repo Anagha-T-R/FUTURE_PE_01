@@ -1,0 +1,140 @@
+Prompt 14 — FAQ Section
+📋 The Prompt:
+Using the LifeLift Fitness brand context and 
+voice guide, write a complete FAQ section for 
+the LifeLift Fitness website.
+
+SECTION HEADER:
+Write a friendly headline and 2-sentence intro 
+for the FAQ section. Should feel approachable 
+and reassuring, not robotic.
+
+CREATE 12 FREQUENTLY ASKED QUESTIONS:
+Organized into 4 categories:
+
+CATEGORY 1 — MEMBERSHIP & PRICING (3 Questions)
+
+Q1: What membership plans does LifeLift Fitness offer?
+Include all 3 plans with pricing:
+- Normal Plan (3M: ₹2,499 / 6M: ₹4,299 / 12M: ₹7,499)
+- Normal + Diet Plan (3M: ₹3,499 / 6M: ₹5,999 / 12M: ₹9,999)
+- Premium Transformation Plan 
+  (3M: ₹5,999 / 6M: ₹10,499 / 12M: ₹17,999)
+Answer should be clear, warm and end with 
+a soft CTA to visit or call.
+
+Q2: Are there any hidden charges or 
+registration fees?
+Answer: No hidden charges, transparent pricing,
+one-time joining fee of ₹299 only for first 
+time members, all equipment included, locker 
+room access included.
+
+Q3: Can I pause or cancel my membership?
+Answer: Yes, members can pause up to 30 days 
+per year for medical reasons, cancellation 
+policy is flexible with 15 days notice, 
+no long term lock-ins.
+
+CATEGORY 2 — GYM & FACILITIES (3 Questions)
+
+Q4: What are your gym timings?
+Answer: Open 5 AM to 11 PM, 7 days a week,
+365 days a year including public holidays,
+special holiday timing announcements on 
+WhatsApp group.
+
+Q5: Where exactly is LifeLift Fitness located?
+Answer: #24 Nagasandra Main Road, 2 minutes 
+walk from Nagasandra Metro Station (Purple Line),
+free parking available, easy access from 
+Yeshwanthpur, Tumkur Road and Chikkabidarakallu.
+
+Q6: What facilities are available at the gym?
+Answer: Include — Cardio zone (treadmills, 
+cycles, ellipticals), Free weights section,
+Strength training machines, Dedicated yoga/
+group class studio, Locker rooms with showers,
+Water purifier and protein shake bar,
+Air conditioned throughout, Free WiFi.
+
+CATEGORY 3 — TRAINING & CLASSES (3 Questions)
+
+Q7: I am a complete beginner. Is LifeLift 
+Fitness right for me?
+Answer: Absolutely yes, beginners are most 
+welcome, free orientation session for all 
+new members, trainer Karthik or Sneha will 
+guide first workout, no judgment policy is 
+strictly followed, beginner-friendly 
+equipment available.
+
+Q8: What group fitness classes do you offer 
+and when?
+Answer: Classes include Zumba (Mon/Wed/Fri 
+7 PM), HIIT (Tue/Thu 6:30 AM and 7 PM), 
+Yoga (Daily 6 AM and 8 PM), Crossfit 
+(Sat/Sun 8 AM), all classes included in 
+membership, max 15 members per class for 
+personal attention.
+
+Q9: How does the 12-Week Body Transformation 
+Program work?
+Answer: Exclusive to Premium Plan members,
+Week 1 — full body assessment and goal setting,
+Weeks 2-10 — 3 personal training sessions 
+per week with custom workout plan,
+Weekly body measurements and progress photos,
+Nutrition plan adjusted every 2 weeks,
+Week 12 — final assessment and before/after 
+documentation, WhatsApp support from trainer 
+throughout.
+
+CATEGORY 4 — GENERAL QUESTIONS (3 Questions)
+
+Q10: Is there a free trial available?
+Answer: Yes, free 1-day trial pass available,
+no credit card needed, just walk in with 
+valid ID, trial includes full gym access 
+and one group class, trial available 
+Monday to Friday only.
+
+Q11: Do you have separate workout areas 
+or timings for women?
+Answer: Dedicated women's section available 
+during peak hours (6 AM - 9 AM and 
+6 PM - 9 PM), female trainer Sneha Reddy 
+available during these hours, all staff 
+trained in creating safe and respectful 
+environment, CCTV monitoring throughout.
+
+Q12: How do I get started or contact 
+LifeLift Fitness?
+Answer: 3 ways to get started —
+1. Walk in directly at Nagasandra Main Road
+2. Call/WhatsApp: +91 98XXX XXXXX
+3. Fill the enquiry form on this website
+Response guaranteed within 2 hours on 
+WhatsApp, free consultation call available 
+with Arjun or Vikram before joining.
+
+WRITING RULES FOR FAQ:
+- Each answer should be 3-5 sentences
+- Use friendly, conversational tone
+- Avoid robotic or corporate language
+- Start answers with reassuring words 
+  like "Absolutely", "Of course", "Yes!"
+- End at least 3 answers with a soft CTA
+- Use bullet points inside answers where 
+  it helps readability
+- Mention trainer names naturally in answers
+- Keep LifeLift Fitness brand voice consistent
+  throughout all answers
+
+SECTION FOOTER:
+Write a 2-sentence footer below FAQs saying 
+if question not answered, they can reach out 
+directly. Include WhatsApp and email contact.
+
+Format everything cleanly and professionally
+so it can be directly used on the website.
