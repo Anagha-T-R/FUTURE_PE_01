@@ -13,6 +13,7 @@
 | Track | Prompt Engineering (PE) |
 | Repository | FUTURE_PE_01 |
 | Task | AI Website Copy Generator for Local Businesses |
+| CIN ID | FIT/MAY26/PE2660 |
 | Tool Used | Claude AI, ChatGPT, Lovable.dev, GitHub |
 | Business | LifeLift Fitness, Nagasandra, Bengaluru |
 
